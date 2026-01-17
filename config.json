@@ -1,0 +1,18 @@
+{
+  "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL",
+  "saveLog": false,
+  "printers": [
+    {
+      "name": "YOUR PRINTER NAME 1",
+      "host": "YOUR PRINTER IP 1",
+      "accessCode": "YOUR PRINTER ACCESS CODE 1",
+      "serial": "YOUR PRINTER SERIAL NUMBER"
+    },
+    {
+      "name": "YOUR PRINTER NAME 2",
+      "host": "YOUR PRINTER IP 2",
+      "accessCode": "YOUR PRINTER ACCESS CODE 2",
+      "serial": "YOUR PRINTER SERIAL NUMBER"
+    }
+  ]
+}
